@@ -1,0 +1,20 @@
+{
+	"name": "linenben17/tienda-online",
+	"description": "Creacion de una tienda online",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "LinenBen17",
+			"email": "aesquitecastillo@gmail.com"
+		}
+	],
+	"require":{
+
+	},
+	"autoload":{
+		"psr-4":{
+			"LinenBen17\\":"src/"
+		}
+	}
+}
